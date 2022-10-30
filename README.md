@@ -2,8 +2,9 @@
 ## *Project #01, Group 12* 
 
 
-Project Outline/Description:
-Are cannabis laws affecting housing prices in the U.S.? 
+### **Project Description:**
+Are cannabis laws affecting housing prices in the U.S.?
+
 What is the correlation between recreational cannabis sales and home valuations in legalized vs. non-legalized states?
 
 
