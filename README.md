@@ -9,7 +9,7 @@ What is the correlation between recreational cannabis sales and home valuations 
 
 
 ### **HYPOTHESIS:**
-If a state has legalized recreational cannabis, then it’s expected to have an accelerated increase in their house prices. 
+Housing prices increase at a greater rate when recreational cannabis sales are legalized. 
 
 
 Research Questions:
