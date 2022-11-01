@@ -57,4 +57,4 @@ Research Questions:
 		
 # **CONCLUSION**
 
-In our final box and whisker graph, we directly compared the two data sets of legal and non-legal 'State Buds' and performed a T-Test. The resulting p-value of 0.00134385 < 0.05 (The generally accepted threshold). As a result, we reject the null hypothesis and are confident that the results unequivocally prove that recreational cannabis sales have a direct impact on the rate of increase in housing prices.
+In our final box and whisker graph, we directly compared the two data sets of legal and non-legal 'State Buds' and performed a T-Test, assuming that we can extrapolate that our sample data are independent, approximately normally distributed, and have a similar variance between our two groups (i.e., legal and non-legal). The resulting p-value was 0.00134385, lower than 0.05 (the generally accepted threshold). As a result, we reject the null hypothesis and are confident that the results unequivocally prove that recreational cannabis sales have a direct impact on the rate of increase in housing prices.
