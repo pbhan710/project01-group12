@@ -23,33 +23,36 @@ Research Questions:
 		A. We Chose Colorado, Washington, and Oregon and compared these to non-legal control states:
             
 				i. Colorado-Vermont
-	![colorado_vermont](https://user-images.githubusercontent.com/112498067/198892000-9e729b6e-732f-4bf1-9645-4e1f9fc543ef.png)
+	![colorado_vermont2](https://user-images.githubusercontent.com/112498067/199375097-6ff443c3-9686-44d9-ab55-42934cbd17bc.png)
+
+	
 
 							
-				ii. Washington - New Jersey
-	![washington_jersey](https://user-images.githubusercontent.com/112498067/198892013-8be11c28-bb5f-459a-9cdc-1a1ea136cd18.png)
+				ii. Washington - New Jersey	
+	![washington_jersey](https://user-images.githubusercontent.com/112498067/199375200-9e4fe315-f62d-4137-aef9-d0e5ca04f34f.png)
 
             
 				iii. Oregon - Rhode Island
-	![oregon_rhode](https://user-images.githubusercontent.com/112498067/198892028-38a5d08f-2fc4-4785-88ce-792e37d87309.png)
+	![oregon_rhode](https://user-images.githubusercontent.com/112498067/199375257-b495f0df-178b-492d-9482-7dee846c27bd.png)
+
 
 				
 				
 3. How is the annual change statistically different from the states we looked at before?
 		
 		A. Create line graphs of the percent change in HPI for legal versus non-legal states:
-	![annual_change](https://user-images.githubusercontent.com/112498067/198892156-edcaf236-7465-4b42-98a3-c14bebec4fe7.png)
+	![annual_change](https://user-images.githubusercontent.com/112498067/199375350-96509060-af0b-4723-86ca-5e309da04c1f.png)
+		
+		
 
 		B. Create scatter plots of legal versus non-legal populations and analyze the data statistically:
-		
-	![legal_annual_change](https://user-images.githubusercontent.com/112498067/198892084-bf535827-48c4-4cc0-8388-f8b05e2d3afd.png)
-	![nonlegal_annual_change](https://user-images.githubusercontent.com/112498067/198892095-5ead76e6-f567-437d-9a5b-85da59a7c4c7.png)
+	![legal_annual_change](https://user-images.githubusercontent.com/112498067/199375432-0d7d6f5f-ce82-4867-9a70-a8494b4eb4d8.png)
+	![nonlegal_annual_change](https://user-images.githubusercontent.com/112498067/199375498-11488a2c-3160-4bf3-8c79-96c19662ef7f.png)
 
 		
-		C. Perform a Box and Whiskers analysis of the percent change in HPI for legal and non-legal states.
-	![boxplot](https://user-images.githubusercontent.com/112498067/198892243-b3e69dd3-4c94-43bd-9761-9a82d3594520.png)
-
-				
+		C. Perform a Box and Whiskers analysis of the percent change in HPI for legal and non-legal states.	
+	![boxplot](https://user-images.githubusercontent.com/112498067/199375564-00fb8eb7-2cbf-4307-848f-00d2806a36f4.png)
+		
 				
 		D. Perform a T-Test of combined results:
 				
@@ -58,3 +61,6 @@ Research Questions:
 # **CONCLUSION**
 
 We graphed the legal and non-legal data separately with scatter plots and created regression lines to determine the slopes of the two separate populations for comparison. In our final Box-and-Whisker graph, we directly compared the two data sets of legal and non-legal 'State Buds' and performed a T-Test, assuming that we can extrapolate that our sample data are independent, approximately normally distributed, and have a similar variance between our two groups (i.e., legal and non-legal). The resulting p-value was 0.00134385, lower than 0.05 (the generally accepted threshold). As a result, we reject the null hypothesis and are confident that the results unequivocally prove that recreational cannabis sales have a direct impact on the rate of increase in housing prices.
+
+### **Citations**
+Bogin, Alexander N., Doerner, William M. and Larson, William D. (2019). "Local House Price Dynamics: New Indices and Stylized Facts". Real Estate Economics, volume 47, issue 2, pages 365-398. The initial FHFA WP 16-01 is accessible at http://www.fhfa.gov/papers/wp1601.aspx.
