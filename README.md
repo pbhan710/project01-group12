@@ -26,7 +26,7 @@ Research Questions:
 					
 	![washington_jersey](https://user-images.githubusercontent.com/112498067/199375200-9e4fe315-f62d-4137-aef9-d0e5ca04f34f.png)
 	
-            	iii. Oregon - Rhode Island
+         iii. Oregon - Rhode Island
 					
 	![oregon_rhode](https://user-images.githubusercontent.com/112498067/199375257-b495f0df-178b-492d-9482-7dee846c27bd.png)	
 	
