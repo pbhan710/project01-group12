@@ -18,15 +18,15 @@ Research Questions:
 	
 	A. We Chose Colorado, Washington, and Oregon and compared these to non-legal control states:
             
-							i. Colorado-Vermont
+		i. Colorado-Vermont
 					
 	![colorado_vermont](https://user-images.githubusercontent.com/112498067/200094494-eaa72f41-34a8-4a2d-9d72-a51b735f8088.png)
 	
-							ii. Washington - New Jersey	
+		ii. Washington - New Jersey	
 					
 	![washington_jersey](https://user-images.githubusercontent.com/112498067/199375200-9e4fe315-f62d-4137-aef9-d0e5ca04f34f.png)
 	
-            						iii. Oregon - Rhode Island
+            	iii. Oregon - Rhode Island
 					
 	![oregon_rhode](https://user-images.githubusercontent.com/112498067/199375257-b495f0df-178b-492d-9482-7dee846c27bd.png)	
 	
