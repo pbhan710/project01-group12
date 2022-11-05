@@ -52,7 +52,7 @@ Research Questions:
 		
 # **CONCLUSION**
 
-We graphed the legal and non-legal data separately with scatter plots and created regression lines to determine the slopes of the two separate populations for comparison. In our final Box-and-Whisker graph, we directly compared the two data sets of legal and non-legal 'State Buds' and performed a T-Test, assuming that we can extrapolate that our sample data are independent, approximately normally distributed, and have a similar variance between our two groups (i.e., legal and non-legal). The resulting p-value was 0.00134385, lower than 0.05 (the generally accepted threshold). As a result, we reject the null hypothesis and are confident that the results unequivocally prove that recreational cannabis sales have a direct impact on the rate of increase in housing prices.
+We graphed the legal and non-legal data separately with scatter plots and created regression lines to determine the slopes of the two separate populations for comparison. In our final Box-and-Whisker graph, we directly compared the two data sets of legal and non-legal 'State Buds' and performed a T-Test, assuming that we can extrapolate that our sample data are independent, approximately normally distributed, and have a similar variance between our two groups (i.e., legal and non-legal). The resulting p-value was 0.00134385, lower than 0.05 (the generally accepted threshold). As a result, we reject the null hypothesis and are confident the results strongly suggest that recreational cannabis sales have a direct impact on the rate of increase in housing prices.
 
-### **Citations**
+### **Credits**
 Bogin, Alexander N., Doerner, William M. and Larson, William D. (2019). "Local House Price Dynamics: New Indices and Stylized Facts". Real Estate Economics, volume 47, issue 2, pages 365-398. The initial FHFA WP 16-01 is accessible at http://www.fhfa.gov/papers/wp1601.aspx.
